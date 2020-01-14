@@ -1,0 +1,22 @@
+html {
+  font-family: sans-serif;
+}
+
+/* Your CSS below here */
+p {
+	width:200px;
+	height:60px;
+	font-size: 17px;
+	text-align: center;
+	vertical-align: middle;
+	border-radius:15px;
+	border: 1px solid maroon;
+	background-color: red;
+	color: red;
+	text-shadow: 2px 2px 2px black;
+	box-shadow: 2px 2px 5px black,
+				2px 2px 5px white inset,
+				-2px -2px 5px black inset;
+
+
+}
